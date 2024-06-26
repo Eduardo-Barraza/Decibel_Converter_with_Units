@@ -1,4 +1,4 @@
-# Decibel_Coverter_with_Units
+# Decibel_Converter_with_Units
 
 To create a Python program that calculates different types of decibel (dB) measurements used in sound reinforcement, we can build an interactive tool that allows the user to select a dB type and then displays conversions among dBV, dBv, dBm, dBu, dBW, and SPL. Each of these measurements refers to a specific method of gauging sound levels or electrical signals, often relative to a standard reference value.
 
